@@ -1,0 +1,6 @@
+@kolosInnaGrupa_HostAddress = http://localhost:5178
+
+GET {{kolosInnaGrupa_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
